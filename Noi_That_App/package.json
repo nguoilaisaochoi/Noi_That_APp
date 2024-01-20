@@ -1,5 +1,5 @@
 {
-  "name": "Noi_That_App",
+  "name": "FurnitureApp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-image-filter-kit": "^0.8.0",
+    "react-native-svg": "^14.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
